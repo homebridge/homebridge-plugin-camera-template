@@ -20,7 +20,7 @@ Click the link below to create a new GitHub Repository using this template, or c
 
 <span align="center">
 
-### [Create New Repository From Template](https://github.com/homebridge/homebridge-plugin-template/generate)
+### [Create New Repository From Template](https://github.com/homebridge/homebridge-plugin-camera-template/generate)
 
 </span>
 
