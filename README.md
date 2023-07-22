@@ -6,7 +6,7 @@
 
 <span align="center">
 
-# Homebridge Platform Plugin Template
+# Homebridge Camera Plugin Template
 
 </span>
 

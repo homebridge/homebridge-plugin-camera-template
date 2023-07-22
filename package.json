@@ -4,7 +4,7 @@
   "name": "homebridge-plugin-name",
   "version": "1.0.0",
   "description": "A short description about what your plugin does.",
-  "license": "Apache-2.0",
+  "license": "ISC",
   "repository": {
     "type": "git",
     "url": "https://github.com/USERNAME/GITHUB_PROJECT_NAME.git"
@@ -12,6 +12,7 @@
   "bugs": {
     "url": "https://github.com/USERNAME/GITHUB_PROJECT_NAME/issues"
   },
+  "author": "Andreas Bauer <mail@anderl-bauer.de>",
   "engines": {
     "node": "^18.17.0",
     "homebridge": "^1.6.0"
@@ -26,8 +27,11 @@
   "keywords": [
     "homebridge-plugin"
   ],
-  "dependencies": {},
+  "dependencies": {
+    "ip": "^1.1.8"
+  },
   "devDependencies": {
+    "@types/ip": "^1.1.0",
     "@types/node": "^18.16.20",
     "@typescript-eslint/eslint-plugin": "^5.62.0",
     "@typescript-eslint/parser": "^5.62.0",
